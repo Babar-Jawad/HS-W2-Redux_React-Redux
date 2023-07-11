@@ -1,0 +1,2 @@
+export const WITHDRAW_AMOUNT = "WITHDRAW_MONEY";
+export const DEPOSIT_MONEY = "DEPOSIT_MONEY";
